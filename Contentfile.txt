@@ -1,6 +1,3 @@
 Textfile for demo
-<<<<<<< HEAD
 changes in local repository
-=======
 changes in content text file 
->>>>>>> 6bf72c671402d6d43f1d74353c0f06035e3db922
